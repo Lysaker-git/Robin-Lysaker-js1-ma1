@@ -128,8 +128,8 @@ function createCats (cats) {
 
     //     html += `
     //         <div>
-    //         <h5>Name: ${catName}</h5>
-    //         <p>Age: ${catAge}</p>
+    //             <h5>Name: ${catName}</h5>
+    //             <p>Age: ${catAge}</p>
     //         </div>  
     //         `
     // });
